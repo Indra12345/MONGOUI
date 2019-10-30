@@ -1,0 +1,9 @@
+export const ADD_ROW = "ADD_ROW";
+export const DELETE_ROW = "DELETE_ROW";
+export const UPDATE_ROW = "UPDATE_ROW";
+export const UPDATE_KEY = "UPDATE_KEY";
+export const UPDATE_TYPE = "UPDATE_TYPE";
+export const UPDATE_REQUIRED = "UPDATE_REQUIRED";
+export const UPDATE_UNIQUE = "UPDATE_UNIQUE";
+export const UPDATE_SCHEMA = "UPDATE_SCHEMA";
+export const UPDATE_SCHEMA_NAME = "UPDATE_SCHEMA_NAME"
